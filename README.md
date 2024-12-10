@@ -1,4 +1,4 @@
-# Awesome Flask Rest API
+# Examples Flask Rest API
 
 [![Wercker](https://img.shields.io/badge/python-v3.8-green.svg?style=flat-square&logo=python)](https://python.org)
 [![Wercker](https://img.shields.io/badge/flask-v1.1.1-green.svg?style=flat-square&logo=flask)](https://flask.palletsprojects.com/en/1.1.x/)
